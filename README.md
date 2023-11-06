@@ -1,2 +1,2 @@
-# Drums.play
-A drum kit instrument website whwere you can make your own tune!.
+# Drumster
+A drum kit instrument website whwere you can make your own tune 
